@@ -1,9 +1,9 @@
 def create_an_empty_array
 []
-
 end
 
 def create_an_array
+flowers = ["lily" , "rose" , "jasmine" , "cherry"]
 
 end
 
